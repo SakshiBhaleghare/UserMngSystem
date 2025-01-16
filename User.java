@@ -9,6 +9,7 @@ public class User {
 	private String userAddress;
 	private String userAdharNo;
 	private String userEmailId;
+        private String address;
 
 	public String getUserEmailId() {
 		return userEmailId;
